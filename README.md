@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on building websites.
-- 📫 How to reach me @kshypcantdance on twitter.
+- 📫 @kshypcantdance on twitter.
 
 <!---
 kshypjn/kshypjn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
