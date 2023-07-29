@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kshypjn
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning webdevelopment and swift
+- 🌱 I’m currently learning webdevelopment and swiftUI
 - 💞️ I’m looking to collaborate on building websites.
 - 📫 @kshypcantdance on twitter.
 
